@@ -44,7 +44,7 @@ public class Bichinho {
     }
 
     public static void main(String[] args) {
-        Bichinho urso = new Bichinho("Jose", 25, 10);
+        Bichinho urso = new Bichinho(" Jose", 25, 10);
 
         Comida mel = new Comida("Mel", 0.5);
         Comida batata = new Comida("Batata", 1);
