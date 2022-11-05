@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="DESAFIO_JAVA" />
         <module name="DESAFIO_JAVA_E_MYSQL" />
       </profile>
     </annotationProcessing>
